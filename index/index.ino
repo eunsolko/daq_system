@@ -76,7 +76,13 @@ void loop() {
 }
 
 void gps(){
-  
+  int i=1
+  if(i==1){
+  print("hi")
+  }
+  else{
+  print("hello")
+  }
 }
 
 void hall_effect(){
